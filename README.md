@@ -1,2 +1,0 @@
-# dotfiles
-Managed by `chezmoi`
